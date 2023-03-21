@@ -10,6 +10,8 @@ Language: Golang
 Framework: gRPC
 Protocol: Protocol Buffers (proto3)
 
+![Output of the Project](/assets/output.png)
+
 ## Application
 This application serves as a foundation for creating more complex microservices using gRPC. The gRPC service supports four different types of RPC methods:
 
@@ -54,7 +56,7 @@ As more organizations adopt microservices architecture, gRPC is well-positioned 
 ## To contribute to this project, please follow these steps:
 
 - Fork the repository by clicking on the "Fork" button at the top of the page.
-- Clone the forked repository to your local machine using git clone https://github.com/mudityadev/gRPC-Message.git
+- Clone the forked repository to your local machine using git clone https://github.com/mudityadev/gRPC_Message_Service_Bidirectional.git
 - Create a new branch for your changes using git checkout -b branch-name
 - Make your changes to the code and commit them using git commit -m "commit message"
 - Push your changes to your forked repository using git push origin branch-name
